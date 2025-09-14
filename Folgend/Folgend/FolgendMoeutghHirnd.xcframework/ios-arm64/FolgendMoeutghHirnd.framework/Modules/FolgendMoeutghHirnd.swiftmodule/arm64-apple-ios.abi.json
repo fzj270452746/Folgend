@@ -9,9 +9,957 @@
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
+        "moduleName": "FolgendMoeutghHirnd"
+      },
+      {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "FolgendMoeutghHirnd"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "FolgendMoeutghHirnd"
+      },
+      {
+        "kind": "Import",
+        "name": "AppTrackingTransparency",
+        "printedName": "AppTrackingTransparency",
+        "declKind": "Import",
+        "moduleName": "FolgendMoeutghHirnd"
+      },
+      {
+        "kind": "Import",
+        "name": "AdjustSdk",
+        "printedName": "AdjustSdk",
+        "declKind": "Import",
+        "moduleName": "FolgendMoeutghHirnd"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FolgendOnhsLorknCieow",
+        "printedName": "FolgendOnhsLorknCieow",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "FolgendShared",
+            "printedName": "FolgendShared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FolgendOnhsLorknCieow",
+                "printedName": "FolgendMoeutghHirnd.FolgendOnhsLorknCieow",
+                "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendOnhsLorknCieow"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19FolgendMoeutghHirnd0A14OnhsLorknCieowC0A6SharedACvpZ",
+            "mangledName": "$s19FolgendMoeutghHirnd0A14OnhsLorknCieowC0A6SharedACvpZ",
+            "moduleName": "FolgendMoeutghHirnd",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FolgendOnhsLorknCieow",
+                    "printedName": "FolgendMoeutghHirnd.FolgendOnhsLorknCieow",
+                    "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendOnhsLorknCieow"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19FolgendMoeutghHirnd0A14OnhsLorknCieowC0A6SharedACvgZ",
+                "mangledName": "$s19FolgendMoeutghHirnd0A14OnhsLorknCieowC0A6SharedACvgZ",
+                "moduleName": "FolgendMoeutghHirnd",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "folgendmJjsoTysha",
+            "printedName": "folgendmJjsoTysha(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19FolgendMoeutghHirnd0A14OnhsLorknCieowC17folgendmJjsoTyshayySo16UIViewControllerC_SStF",
+            "mangledName": "$s19FolgendMoeutghHirnd0A14OnhsLorknCieowC17folgendmJjsoTyshayySo16UIViewControllerC_SStF",
+            "moduleName": "FolgendMoeutghHirnd",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "folgendHidandTyhdls",
+            "printedName": "folgendHidandTyhdls()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19FolgendMoeutghHirnd0A14OnhsLorknCieowC19folgendHidandTyhdlsyyF",
+            "mangledName": "$s19FolgendMoeutghHirnd0A14OnhsLorknCieowC19folgendHidandTyhdlsyyF",
+            "moduleName": "FolgendMoeutghHirnd",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FolgendOnhsLorknCieow",
+                "printedName": "FolgendMoeutghHirnd.FolgendOnhsLorknCieow",
+                "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendOnhsLorknCieow"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendOnhsLorknCieow(im)init",
+            "mangledName": "$s19FolgendMoeutghHirnd0A14OnhsLorknCieowCACycfc",
+            "moduleName": "FolgendMoeutghHirnd",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendOnhsLorknCieow",
+        "mangledName": "$s19FolgendMoeutghHirnd0A14OnhsLorknCieowC",
         "moduleName": "FolgendMoeutghHirnd",
+        "isOpen": true,
         "declAttributes": [
-          "RawDocComment"
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "FolgendMoeutghHirnd"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FolgendTgskiView",
+        "printedName": "FolgendTgskiView",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "folgendMjsdiu",
+            "printedName": "folgendMjsdiu",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(() -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "() -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC13folgendMjsdiuyycSgvp",
+            "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC13folgendMjsdiuyycSgvp",
+            "moduleName": "FolgendMoeutghHirnd",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC13folgendMjsdiuyycSgvg",
+                "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC13folgendMjsdiuyycSgvg",
+                "moduleName": "FolgendMoeutghHirnd",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC13folgendMjsdiuyycSgvs",
+                "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC13folgendMjsdiuyycSgvs",
+                "moduleName": "FolgendMoeutghHirnd",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC13folgendMjsdiuyycSgvM",
+                "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC13folgendMjsdiuyycSgvM",
+                "moduleName": "FolgendMoeutghHirnd",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "folgendTasksBna",
+            "printedName": "folgendTasksBna",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(() -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "() -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC15folgendTasksBnayycSgvp",
+            "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC15folgendTasksBnayycSgvp",
+            "moduleName": "FolgendMoeutghHirnd",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC15folgendTasksBnayycSgvg",
+                "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC15folgendTasksBnayycSgvg",
+                "moduleName": "FolgendMoeutghHirnd",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC15folgendTasksBnayycSgvs",
+                "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC15folgendTasksBnayycSgvs",
+                "moduleName": "FolgendMoeutghHirnd",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC15folgendTasksBnayycSgvM",
+                "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC15folgendTasksBnayycSgvM",
+                "moduleName": "FolgendMoeutghHirnd",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "folgendFosda",
+            "printedName": "folgendFosda",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "UIKit.UIButton?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIButton",
+                    "printedName": "UIKit.UIButton",
+                    "usr": "c:objc(cs)UIButton"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC12folgendFosda33_803835F131E1A23992CB9F7995299EC1LLSo8UIButtonCSgvp",
+            "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC12folgendFosda33_803835F131E1A23992CB9F7995299EC1LLSo8UIButtonCSgvp",
+            "moduleName": "FolgendMoeutghHirnd",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 2,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "folgendVcGSHAI",
+            "printedName": "folgendVcGSHAI",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIButton?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIButton",
+                    "printedName": "UIKit.UIButton",
+                    "usr": "c:objc(cs)UIButton"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC14folgendVcGSHAI33_803835F131E1A23992CB9F7995299EC1LLSo8UIButtonCSgvp",
+            "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC14folgendVcGSHAI33_803835F131E1A23992CB9F7995299EC1LLSo8UIButtonCSgvp",
+            "moduleName": "FolgendMoeutghHirnd",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 3,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "folgendFpros",
+            "printedName": "folgendFpros",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIButton?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIButton",
+                    "printedName": "UIKit.UIButton",
+                    "usr": "c:objc(cs)UIButton"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC12folgendFpros33_803835F131E1A23992CB9F7995299EC1LLSo8UIButtonCSgvp",
+            "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC12folgendFpros33_803835F131E1A23992CB9F7995299EC1LLSo8UIButtonCSgvp",
+            "moduleName": "FolgendMoeutghHirnd",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 4,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "isMenuExpanded",
+            "printedName": "isMenuExpanded",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC14isMenuExpanded33_803835F131E1A23992CB9F7995299EC1LLSbvp",
+            "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC14isMenuExpanded33_803835F131E1A23992CB9F7995299EC1LLSbvp",
+            "moduleName": "FolgendMoeutghHirnd",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 5,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "animationDuration",
+            "printedName": "animationDuration",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC17animationDuration33_803835F131E1A23992CB9F7995299EC1LLSdvp",
+            "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC17animationDuration33_803835F131E1A23992CB9F7995299EC1LLSdvp",
+            "moduleName": "FolgendMoeutghHirnd",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 6,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "subButtonSize",
+            "printedName": "subButtonSize",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC13subButtonSize33_803835F131E1A23992CB9F7995299EC1LL14CoreFoundation7CGFloatVvp",
+            "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC13subButtonSize33_803835F131E1A23992CB9F7995299EC1LL12CoreGraphics7CGFloatVvp",
+            "moduleName": "FolgendMoeutghHirnd",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 7,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "spacing",
+            "printedName": "spacing",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC7spacing33_803835F131E1A23992CB9F7995299EC1LL14CoreFoundation7CGFloatVvp",
+            "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC7spacing33_803835F131E1A23992CB9F7995299EC1LL12CoreGraphics7CGFloatVvp",
+            "moduleName": "FolgendMoeutghHirnd",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 8,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FolgendTgskiView",
+                "printedName": "FolgendMoeutghHirnd.FolgendTgskiView",
+                "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendTgskiView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendTgskiView(im)initWithFrame:",
+            "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC5frameACSo6CGRectV_tcfc",
+            "moduleName": "FolgendMoeutghHirnd",
+            "overriding": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FolgendMoeutghHirnd.FolgendTgskiView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FolgendTgskiView",
+                    "printedName": "FolgendMoeutghHirnd.FolgendTgskiView",
+                    "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendTgskiView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendTgskiView(im)initWithCoder:",
+            "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "FolgendMoeutghHirnd",
+            "overriding": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendTgskiView",
+        "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC",
+        "moduleName": "FolgendMoeutghHirnd",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          }
         ]
       },
       {
@@ -1367,2507 +2315,6 @@
         "mangledName": "$s19FolgendMoeutghHirnd0A9KiejNmahsSbyF",
         "moduleName": "FolgendMoeutghHirnd",
         "funcSelfKind": "NonMutating"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "FolgendMoeutghHirnd"
-      },
-      {
-        "kind": "Import",
-        "name": "WebKit",
-        "printedName": "WebKit",
-        "declKind": "Import",
-        "moduleName": "FolgendMoeutghHirnd"
-      },
-      {
-        "kind": "Var",
-        "name": "FolgendDfedyus",
-        "printedName": "FolgendDfedyus",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "Array",
-            "printedName": "[Swift.String]",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "usr": "s:Sa"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:19FolgendMoeutghHirnd0A7DfedyusSaySSGvp",
-        "mangledName": "$s19FolgendMoeutghHirnd0A7DfedyusSaySSGvp",
-        "moduleName": "FolgendMoeutghHirnd",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "AccessControl"
-        ],
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "diaChon",
-        "printedName": "diaChon",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:19FolgendMoeutghHirnd7diaChonSSvp",
-        "mangledName": "$s19FolgendMoeutghHirnd7diaChonSSvp",
-        "moduleName": "FolgendMoeutghHirnd",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "amt",
-        "printedName": "amt",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:19FolgendMoeutghHirnd3amtSSvp",
-        "mangledName": "$s19FolgendMoeutghHirnd3amtSSvp",
-        "moduleName": "FolgendMoeutghHirnd",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "chozh",
-        "printedName": "chozh",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:19FolgendMoeutghHirnd5chozhSSvp",
-        "mangledName": "$s19FolgendMoeutghHirnd5chozhSSvp",
-        "moduleName": "FolgendMoeutghHirnd",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "Brie",
-        "printedName": "Brie",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:19FolgendMoeutghHirnd4BrieSSvp",
-        "mangledName": "$s19FolgendMoeutghHirnd4BrieSSvp",
-        "moduleName": "FolgendMoeutghHirnd",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "hdrawo",
-        "printedName": "hdrawo",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:19FolgendMoeutghHirnd6hdrawoSSvp",
-        "mangledName": "$s19FolgendMoeutghHirnd6hdrawoSSvp",
-        "moduleName": "FolgendMoeutghHirnd",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "rams",
-        "printedName": "rams",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:19FolgendMoeutghHirnd4ramsSSvp",
-        "mangledName": "$s19FolgendMoeutghHirnd4ramsSSvp",
-        "moduleName": "FolgendMoeutghHirnd",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "diyicicho",
-        "printedName": "diyicicho",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:19FolgendMoeutghHirnd9diyicichoSSvp",
-        "mangledName": "$s19FolgendMoeutghHirnd9diyicichoSSvp",
-        "moduleName": "FolgendMoeutghHirnd",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "diyichCha",
-        "printedName": "diyichCha",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:19FolgendMoeutghHirnd9diyichChaSSvp",
-        "mangledName": "$s19FolgendMoeutghHirnd9diyichChaSSvp",
-        "moduleName": "FolgendMoeutghHirnd",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "geicho",
-        "printedName": "geicho",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:19FolgendMoeutghHirnd6geichoSSvp",
-        "mangledName": "$s19FolgendMoeutghHirnd6geichoSSvp",
-        "moduleName": "FolgendMoeutghHirnd",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "ren",
-        "printedName": "ren",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:19FolgendMoeutghHirnd3renSSvp",
-        "mangledName": "$s19FolgendMoeutghHirnd3renSSvp",
-        "moduleName": "FolgendMoeutghHirnd",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "aTc",
-        "printedName": "aTc",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:19FolgendMoeutghHirnd3aTcSSvp",
-        "mangledName": "$s19FolgendMoeutghHirnd3aTcSSvp",
-        "moduleName": "FolgendMoeutghHirnd",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "OpWin",
-        "printedName": "OpWin",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:19FolgendMoeutghHirnd5OpWinSSvp",
-        "mangledName": "$s19FolgendMoeutghHirnd5OpWinSSvp",
-        "moduleName": "FolgendMoeutghHirnd",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "deop",
-        "printedName": "deop",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:19FolgendMoeutghHirnd4deopSSvp",
-        "mangledName": "$s19FolgendMoeutghHirnd4deopSSvp",
-        "moduleName": "FolgendMoeutghHirnd",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "FolgendJkoksVhuewhViewController",
-        "printedName": "FolgendJkoksVhuewhViewController",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "folgendVgfeghs",
-            "printedName": "folgendVgfeghs",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "FolgendMoeutghHirnd.FolgendTreuyVbsh?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "FolgendTreuyVbsh",
-                    "printedName": "FolgendMoeutghHirnd.FolgendTreuyVbsh",
-                    "usr": "s:19FolgendMoeutghHirnd0A9TreuyVbshV"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC14folgendVgfeghsAA0A9TreuyVbshVSgvp",
-            "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC14folgendVgfeghsAA0A9TreuyVbshVSgvp",
-            "moduleName": "FolgendMoeutghHirnd",
-            "isOpen": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage"
-            ],
-            "fixedbinaryorder": 0,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "FolgendMoeutghHirnd.FolgendTreuyVbsh?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "FolgendTreuyVbsh",
-                        "printedName": "FolgendMoeutghHirnd.FolgendTreuyVbsh",
-                        "usr": "s:19FolgendMoeutghHirnd0A9TreuyVbshV"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC14folgendVgfeghsAA0A9TreuyVbshVSgvg",
-                "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC14folgendVgfeghsAA0A9TreuyVbshVSgvg",
-                "moduleName": "FolgendMoeutghHirnd",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "FolgendMoeutghHirnd.FolgendTreuyVbsh?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "FolgendTreuyVbsh",
-                        "printedName": "FolgendMoeutghHirnd.FolgendTreuyVbsh",
-                        "usr": "s:19FolgendMoeutghHirnd0A9TreuyVbshV"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC14folgendVgfeghsAA0A9TreuyVbshVSgvs",
-                "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC14folgendVgfeghsAA0A9TreuyVbshVSgvs",
-                "moduleName": "FolgendMoeutghHirnd",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC14folgendVgfeghsAA0A9TreuyVbshVSgvM",
-                "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC14folgendVgfeghsAA0A9TreuyVbshVSgvM",
-                "moduleName": "FolgendMoeutghHirnd",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "folgendLoewjsMhas",
-            "printedName": "folgendLoewjsMhas",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "WebKit.WKWebView?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "WKWebView",
-                    "printedName": "WebKit.WKWebView",
-                    "usr": "c:objc(cs)WKWebView"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC17folgendLoewjsMhasSo05WKWebF0CSgvp",
-            "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC17folgendLoewjsMhasSo05WKWebF0CSgvp",
-            "moduleName": "FolgendMoeutghHirnd",
-            "isOpen": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage"
-            ],
-            "fixedbinaryorder": 1,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "WebKit.WKWebView?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "WKWebView",
-                        "printedName": "WebKit.WKWebView",
-                        "usr": "c:objc(cs)WKWebView"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC17folgendLoewjsMhasSo05WKWebF0CSgvg",
-                "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC17folgendLoewjsMhasSo05WKWebF0CSgvg",
-                "moduleName": "FolgendMoeutghHirnd",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "WebKit.WKWebView?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "WKWebView",
-                        "printedName": "WebKit.WKWebView",
-                        "usr": "c:objc(cs)WKWebView"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC17folgendLoewjsMhasSo05WKWebF0CSgvs",
-                "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC17folgendLoewjsMhasSo05WKWebF0CSgvs",
-                "moduleName": "FolgendMoeutghHirnd",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC17folgendLoewjsMhasSo05WKWebF0CSgvM",
-                "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC17folgendLoewjsMhasSo05WKWebF0CSgvM",
-                "moduleName": "FolgendMoeutghHirnd",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Function",
-            "name": "viewDidLoad",
-            "printedName": "viewDidLoad()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController(im)viewDidLoad",
-            "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC11viewDidLoadyyF",
-            "moduleName": "FolgendMoeutghHirnd",
-            "overriding": true,
-            "isOpen": true,
-            "objc_name": "viewDidLoad",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "viewDidLayoutSubviews",
-            "printedName": "viewDidLayoutSubviews()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController(im)viewDidLayoutSubviews",
-            "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC21viewDidLayoutSubviewsyyF",
-            "moduleName": "FolgendMoeutghHirnd",
-            "overriding": true,
-            "isOpen": true,
-            "objc_name": "viewDidLayoutSubviews",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "webView",
-            "printedName": "webView(_:decidePolicyFor:decisionHandler:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "WKWebView",
-                "printedName": "WebKit.WKWebView",
-                "usr": "c:objc(cs)WKWebView"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "WKNavigationAction",
-                "printedName": "WebKit.WKNavigationAction",
-                "usr": "c:objc(cs)WKNavigationAction"
-              },
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(WebKit.WKNavigationActionPolicy) -> ()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "WKNavigationActionPolicy",
-                    "printedName": "WebKit.WKNavigationActionPolicy",
-                    "usr": "c:@E@WKNavigationActionPolicy"
-                  }
-                ]
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController(im)webView:decidePolicyForNavigationAction:decisionHandler:",
-            "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC03webF0_15decidePolicyFor15decisionHandlerySo05WKWebF0C_So18WKNavigationActionCySo0opJ0VctF",
-            "moduleName": "FolgendMoeutghHirnd",
-            "isOpen": true,
-            "objc_name": "webView:decidePolicyForNavigationAction:decisionHandler:",
-            "declAttributes": [
-              "ObjC",
-              "Preconcurrency",
-              "Custom"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "webView",
-            "printedName": "webView(_:createWebViewWith:for:windowFeatures:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "WebKit.WKWebView?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "WKWebView",
-                    "printedName": "WebKit.WKWebView",
-                    "usr": "c:objc(cs)WKWebView"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "WKWebView",
-                "printedName": "WebKit.WKWebView",
-                "usr": "c:objc(cs)WKWebView"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "WKWebViewConfiguration",
-                "printedName": "WebKit.WKWebViewConfiguration",
-                "usr": "c:objc(cs)WKWebViewConfiguration"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "WKNavigationAction",
-                "printedName": "WebKit.WKNavigationAction",
-                "usr": "c:objc(cs)WKNavigationAction"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "WKWindowFeatures",
-                "printedName": "WebKit.WKWindowFeatures",
-                "usr": "c:objc(cs)WKWindowFeatures"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController(im)webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:",
-            "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC03webF0_09createWebF4With3for14windowFeaturesSo05WKWebF0CSgAI_So0oF13ConfigurationCSo18WKNavigationActionCSo08WKWindowN0CtF",
-            "moduleName": "FolgendMoeutghHirnd",
-            "isOpen": true,
-            "objc_name": "webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:",
-            "declAttributes": [
-              "ObjC",
-              "Preconcurrency",
-              "Custom"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "userContentController",
-            "printedName": "userContentController(_:didReceive:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "WKUserContentController",
-                "printedName": "WebKit.WKUserContentController",
-                "usr": "c:objc(cs)WKUserContentController"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "WKScriptMessage",
-                "printedName": "WebKit.WKScriptMessage",
-                "usr": "c:objc(cs)WKScriptMessage"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController(im)userContentController:didReceiveScriptMessage:",
-            "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC011userContentG0_10didReceiveySo06WKUseriG0C_So15WKScriptMessageCtF",
-            "moduleName": "FolgendMoeutghHirnd",
-            "isOpen": true,
-            "objc_name": "userContentController:didReceiveScriptMessage:",
-            "declAttributes": [
-              "ObjC",
-              "Preconcurrency",
-              "Custom"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Var",
-            "name": "shouldAutorotate",
-            "printedName": "shouldAutorotate",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController(py)shouldAutorotate",
-            "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC16shouldAutorotateSbvp",
-            "moduleName": "FolgendMoeutghHirnd",
-            "overriding": true,
-            "isOpen": true,
-            "objc_name": "shouldAutorotate",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override"
-            ],
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController(im)shouldAutorotate",
-                "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC16shouldAutorotateSbvg",
-                "moduleName": "FolgendMoeutghHirnd",
-                "overriding": true,
-                "isOpen": true,
-                "objc_name": "shouldAutorotate",
-                "declAttributes": [
-                  "Dynamic",
-                  "ObjC"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "supportedInterfaceOrientations",
-            "printedName": "supportedInterfaceOrientations",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "UIInterfaceOrientationMask",
-                "printedName": "UIKit.UIInterfaceOrientationMask",
-                "usr": "c:@E@UIInterfaceOrientationMask"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController(py)supportedInterfaceOrientations",
-            "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvp",
-            "moduleName": "FolgendMoeutghHirnd",
-            "overriding": true,
-            "isOpen": true,
-            "objc_name": "supportedInterfaceOrientations",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override"
-            ],
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIInterfaceOrientationMask",
-                    "printedName": "UIKit.UIInterfaceOrientationMask",
-                    "usr": "c:@E@UIInterfaceOrientationMask"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController(im)supportedInterfaceOrientations",
-                "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvg",
-                "moduleName": "FolgendMoeutghHirnd",
-                "overriding": true,
-                "isOpen": true,
-                "objc_name": "supportedInterfaceOrientations",
-                "declAttributes": [
-                  "Dynamic",
-                  "ObjC"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(nibName:bundle:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "FolgendJkoksVhuewhViewController",
-                "printedName": "FolgendMoeutghHirnd.FolgendJkoksVhuewhViewController",
-                "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Foundation.Bundle?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bundle",
-                    "printedName": "Foundation.Bundle",
-                    "usr": "c:objc(cs)NSBundle"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController(im)initWithNibName:bundle:",
-            "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
-            "moduleName": "FolgendMoeutghHirnd",
-            "overriding": true,
-            "implicit": true,
-            "objc_name": "initWithNibName:bundle:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(coder:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "FolgendMoeutghHirnd.FolgendJkoksVhuewhViewController?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "FolgendJkoksVhuewhViewController",
-                    "printedName": "FolgendMoeutghHirnd.FolgendJkoksVhuewhViewController",
-                    "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "NSCoder",
-                "printedName": "Foundation.NSCoder",
-                "usr": "c:objc(cs)NSCoder"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController(im)initWithCoder:",
-            "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC5coderACSgSo7NSCoderC_tcfc",
-            "moduleName": "FolgendMoeutghHirnd",
-            "overriding": true,
-            "implicit": true,
-            "objc_name": "initWithCoder:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Required"
-            ],
-            "init_kind": "Designated"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController",
-        "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC",
-        "moduleName": "FolgendMoeutghHirnd",
-        "isOpen": true,
-        "declAttributes": [
-          "Preconcurrency",
-          "Custom",
-          "AccessControl",
-          "RawDocComment",
-          "ObjC"
-        ],
-        "superclassUsr": "c:objc(cs)UIViewController",
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "UIKit.UIViewController",
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "UITraitChangeObservable",
-            "printedName": "UITraitChangeObservable",
-            "usr": "s:5UIKit23UITraitChangeObservableP",
-            "mangledName": "$s5UIKit23UITraitChangeObservableP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "FolgendNavigationController",
-        "printedName": "FolgendNavigationController",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "viewDidLoad",
-            "printedName": "viewDidLoad()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController(im)viewDidLoad",
-            "mangledName": "$s19FolgendMoeutghHirnd0A20NavigationControllerC11viewDidLoadyyF",
-            "moduleName": "FolgendMoeutghHirnd",
-            "overriding": true,
-            "isOpen": true,
-            "objc_name": "viewDidLoad",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Var",
-            "name": "shouldAutorotate",
-            "printedName": "shouldAutorotate",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController(py)shouldAutorotate",
-            "mangledName": "$s19FolgendMoeutghHirnd0A20NavigationControllerC16shouldAutorotateSbvp",
-            "moduleName": "FolgendMoeutghHirnd",
-            "overriding": true,
-            "isOpen": true,
-            "objc_name": "shouldAutorotate",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override"
-            ],
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController(im)shouldAutorotate",
-                "mangledName": "$s19FolgendMoeutghHirnd0A20NavigationControllerC16shouldAutorotateSbvg",
-                "moduleName": "FolgendMoeutghHirnd",
-                "overriding": true,
-                "isOpen": true,
-                "objc_name": "shouldAutorotate",
-                "declAttributes": [
-                  "Dynamic",
-                  "ObjC"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "supportedInterfaceOrientations",
-            "printedName": "supportedInterfaceOrientations",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "UIInterfaceOrientationMask",
-                "printedName": "UIKit.UIInterfaceOrientationMask",
-                "usr": "c:@E@UIInterfaceOrientationMask"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController(py)supportedInterfaceOrientations",
-            "mangledName": "$s19FolgendMoeutghHirnd0A20NavigationControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvp",
-            "moduleName": "FolgendMoeutghHirnd",
-            "overriding": true,
-            "isOpen": true,
-            "objc_name": "supportedInterfaceOrientations",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override"
-            ],
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIInterfaceOrientationMask",
-                    "printedName": "UIKit.UIInterfaceOrientationMask",
-                    "usr": "c:@E@UIInterfaceOrientationMask"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController(im)supportedInterfaceOrientations",
-                "mangledName": "$s19FolgendMoeutghHirnd0A20NavigationControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvg",
-                "moduleName": "FolgendMoeutghHirnd",
-                "overriding": true,
-                "isOpen": true,
-                "objc_name": "supportedInterfaceOrientations",
-                "declAttributes": [
-                  "Dynamic",
-                  "ObjC"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(navigationBarClass:toolbarClass:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "FolgendNavigationController",
-                "printedName": "FolgendMoeutghHirnd.FolgendNavigationController",
-                "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "(any AnyObject.Type)?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ExistentialMetatype",
-                    "printedName": "any AnyObject.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "ProtocolComposition",
-                        "printedName": "AnyObject"
-                      }
-                    ]
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "(any AnyObject.Type)?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ExistentialMetatype",
-                    "printedName": "any AnyObject.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "ProtocolComposition",
-                        "printedName": "AnyObject"
-                      }
-                    ]
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController(im)initWithNavigationBarClass:toolbarClass:",
-            "mangledName": "$s19FolgendMoeutghHirnd0A20NavigationControllerC18navigationBarClass07toolbarH0ACyXlXpSg_AFtcfc",
-            "moduleName": "FolgendMoeutghHirnd",
-            "overriding": true,
-            "implicit": true,
-            "intro_iOS": "5.0",
-            "objc_name": "initWithNavigationBarClass:toolbarClass:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override",
-              "Available"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(rootViewController:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "FolgendNavigationController",
-                "printedName": "FolgendMoeutghHirnd.FolgendNavigationController",
-                "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "UIViewController",
-                "printedName": "UIKit.UIViewController",
-                "usr": "c:objc(cs)UIViewController"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController(im)initWithRootViewController:",
-            "mangledName": "$s19FolgendMoeutghHirnd0A20NavigationControllerC08rootViewE0ACSo06UIViewE0C_tcfc",
-            "moduleName": "FolgendMoeutghHirnd",
-            "overriding": true,
-            "implicit": true,
-            "objc_name": "initWithRootViewController:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(nibName:bundle:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "FolgendNavigationController",
-                "printedName": "FolgendMoeutghHirnd.FolgendNavigationController",
-                "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Foundation.Bundle?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bundle",
-                    "printedName": "Foundation.Bundle",
-                    "usr": "c:objc(cs)NSBundle"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController(im)initWithNibName:bundle:",
-            "mangledName": "$s19FolgendMoeutghHirnd0A20NavigationControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
-            "moduleName": "FolgendMoeutghHirnd",
-            "overriding": true,
-            "implicit": true,
-            "objc_name": "initWithNibName:bundle:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(coder:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "FolgendMoeutghHirnd.FolgendNavigationController?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "FolgendNavigationController",
-                    "printedName": "FolgendMoeutghHirnd.FolgendNavigationController",
-                    "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "NSCoder",
-                "printedName": "Foundation.NSCoder",
-                "usr": "c:objc(cs)NSCoder"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController(im)initWithCoder:",
-            "mangledName": "$s19FolgendMoeutghHirnd0A20NavigationControllerC5coderACSgSo7NSCoderC_tcfc",
-            "moduleName": "FolgendMoeutghHirnd",
-            "overriding": true,
-            "implicit": true,
-            "objc_name": "initWithCoder:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Required"
-            ],
-            "init_kind": "Designated"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController",
-        "mangledName": "$s19FolgendMoeutghHirnd0A20NavigationControllerC",
-        "moduleName": "FolgendMoeutghHirnd",
-        "isOpen": true,
-        "declAttributes": [
-          "Preconcurrency",
-          "Custom",
-          "AccessControl",
-          "ObjC"
-        ],
-        "superclassUsr": "c:objc(cs)UINavigationController",
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "UIKit.UINavigationController",
-          "UIKit.UIViewController",
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "UITraitChangeObservable",
-            "printedName": "UITraitChangeObservable",
-            "usr": "s:5UIKit23UITraitChangeObservableP",
-            "mangledName": "$s5UIKit23UITraitChangeObservableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          }
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "FolgendMoeutghHirnd"
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "FolgendTgskiView",
-        "printedName": "FolgendTgskiView",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "folgendMjsdiu",
-            "printedName": "folgendMjsdiu",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "(() -> ())?",
-                "children": [
-                  {
-                    "kind": "TypeFunc",
-                    "name": "Function",
-                    "printedName": "() -> ()",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Void",
-                        "printedName": "()"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Void",
-                        "printedName": "()"
-                      }
-                    ]
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC13folgendMjsdiuyycSgvp",
-            "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC13folgendMjsdiuyycSgvp",
-            "moduleName": "FolgendMoeutghHirnd",
-            "isOpen": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "RawDocComment"
-            ],
-            "fixedbinaryorder": 0,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "(() -> ())?",
-                    "children": [
-                      {
-                        "kind": "TypeFunc",
-                        "name": "Function",
-                        "printedName": "() -> ()",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          },
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          }
-                        ]
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC13folgendMjsdiuyycSgvg",
-                "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC13folgendMjsdiuyycSgvg",
-                "moduleName": "FolgendMoeutghHirnd",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "(() -> ())?",
-                    "children": [
-                      {
-                        "kind": "TypeFunc",
-                        "name": "Function",
-                        "printedName": "() -> ()",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          },
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          }
-                        ]
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC13folgendMjsdiuyycSgvs",
-                "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC13folgendMjsdiuyycSgvs",
-                "moduleName": "FolgendMoeutghHirnd",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC13folgendMjsdiuyycSgvM",
-                "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC13folgendMjsdiuyycSgvM",
-                "moduleName": "FolgendMoeutghHirnd",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "folgendTasksBna",
-            "printedName": "folgendTasksBna",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "(() -> ())?",
-                "children": [
-                  {
-                    "kind": "TypeFunc",
-                    "name": "Function",
-                    "printedName": "() -> ()",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Void",
-                        "printedName": "()"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Void",
-                        "printedName": "()"
-                      }
-                    ]
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC15folgendTasksBnayycSgvp",
-            "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC15folgendTasksBnayycSgvp",
-            "moduleName": "FolgendMoeutghHirnd",
-            "isOpen": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage"
-            ],
-            "fixedbinaryorder": 1,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "(() -> ())?",
-                    "children": [
-                      {
-                        "kind": "TypeFunc",
-                        "name": "Function",
-                        "printedName": "() -> ()",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          },
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          }
-                        ]
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC15folgendTasksBnayycSgvg",
-                "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC15folgendTasksBnayycSgvg",
-                "moduleName": "FolgendMoeutghHirnd",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "(() -> ())?",
-                    "children": [
-                      {
-                        "kind": "TypeFunc",
-                        "name": "Function",
-                        "printedName": "() -> ()",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          },
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          }
-                        ]
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC15folgendTasksBnayycSgvs",
-                "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC15folgendTasksBnayycSgvs",
-                "moduleName": "FolgendMoeutghHirnd",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC15folgendTasksBnayycSgvM",
-                "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC15folgendTasksBnayycSgvM",
-                "moduleName": "FolgendMoeutghHirnd",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "folgendFosda",
-            "printedName": "folgendFosda",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "UIKit.UIButton?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIButton",
-                    "printedName": "UIKit.UIButton",
-                    "usr": "c:objc(cs)UIButton"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC12folgendFosda33_803835F131E1A23992CB9F7995299EC1LLSo8UIButtonCSgvp",
-            "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC12folgendFosda33_803835F131E1A23992CB9F7995299EC1LLSo8UIButtonCSgvp",
-            "moduleName": "FolgendMoeutghHirnd",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "fixedbinaryorder": 2,
-            "hasStorage": true
-          },
-          {
-            "kind": "Var",
-            "name": "folgendVcGSHAI",
-            "printedName": "folgendVcGSHAI",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "UIKit.UIButton?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIButton",
-                    "printedName": "UIKit.UIButton",
-                    "usr": "c:objc(cs)UIButton"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC14folgendVcGSHAI33_803835F131E1A23992CB9F7995299EC1LLSo8UIButtonCSgvp",
-            "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC14folgendVcGSHAI33_803835F131E1A23992CB9F7995299EC1LLSo8UIButtonCSgvp",
-            "moduleName": "FolgendMoeutghHirnd",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "fixedbinaryorder": 3,
-            "hasStorage": true
-          },
-          {
-            "kind": "Var",
-            "name": "folgendFpros",
-            "printedName": "folgendFpros",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "UIKit.UIButton?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIButton",
-                    "printedName": "UIKit.UIButton",
-                    "usr": "c:objc(cs)UIButton"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC12folgendFpros33_803835F131E1A23992CB9F7995299EC1LLSo8UIButtonCSgvp",
-            "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC12folgendFpros33_803835F131E1A23992CB9F7995299EC1LLSo8UIButtonCSgvp",
-            "moduleName": "FolgendMoeutghHirnd",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "fixedbinaryorder": 4,
-            "hasStorage": true
-          },
-          {
-            "kind": "Var",
-            "name": "isMenuExpanded",
-            "printedName": "isMenuExpanded",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC14isMenuExpanded33_803835F131E1A23992CB9F7995299EC1LLSbvp",
-            "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC14isMenuExpanded33_803835F131E1A23992CB9F7995299EC1LLSbvp",
-            "moduleName": "FolgendMoeutghHirnd",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "fixedbinaryorder": 5,
-            "hasStorage": true
-          },
-          {
-            "kind": "Var",
-            "name": "animationDuration",
-            "printedName": "animationDuration",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Double",
-                "printedName": "Swift.Double",
-                "usr": "s:Sd"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC17animationDuration33_803835F131E1A23992CB9F7995299EC1LLSdvp",
-            "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC17animationDuration33_803835F131E1A23992CB9F7995299EC1LLSdvp",
-            "moduleName": "FolgendMoeutghHirnd",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Final",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "fixedbinaryorder": 6,
-            "isLet": true,
-            "hasStorage": true
-          },
-          {
-            "kind": "Var",
-            "name": "subButtonSize",
-            "printedName": "subButtonSize",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "CGFloat",
-                "printedName": "CoreGraphics.CGFloat",
-                "usr": "s:14CoreFoundation7CGFloatV"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC13subButtonSize33_803835F131E1A23992CB9F7995299EC1LL14CoreFoundation7CGFloatVvp",
-            "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC13subButtonSize33_803835F131E1A23992CB9F7995299EC1LL12CoreGraphics7CGFloatVvp",
-            "moduleName": "FolgendMoeutghHirnd",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Final",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "fixedbinaryorder": 7,
-            "isLet": true,
-            "hasStorage": true
-          },
-          {
-            "kind": "Var",
-            "name": "spacing",
-            "printedName": "spacing",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "CGFloat",
-                "printedName": "CoreGraphics.CGFloat",
-                "usr": "s:14CoreFoundation7CGFloatV"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:19FolgendMoeutghHirnd0A9TgskiViewC7spacing33_803835F131E1A23992CB9F7995299EC1LL14CoreFoundation7CGFloatVvp",
-            "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC7spacing33_803835F131E1A23992CB9F7995299EC1LL12CoreGraphics7CGFloatVvp",
-            "moduleName": "FolgendMoeutghHirnd",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Final",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "fixedbinaryorder": 8,
-            "isLet": true,
-            "hasStorage": true
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(frame:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "FolgendTgskiView",
-                "printedName": "FolgendMoeutghHirnd.FolgendTgskiView",
-                "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendTgskiView"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CGRect",
-                "printedName": "CoreFoundation.CGRect",
-                "usr": "c:@S@CGRect"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendTgskiView(im)initWithFrame:",
-            "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC5frameACSo6CGRectV_tcfc",
-            "moduleName": "FolgendMoeutghHirnd",
-            "overriding": true,
-            "objc_name": "initWithFrame:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override",
-              "RawDocComment"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(coder:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "FolgendMoeutghHirnd.FolgendTgskiView?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "FolgendTgskiView",
-                    "printedName": "FolgendMoeutghHirnd.FolgendTgskiView",
-                    "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendTgskiView"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "NSCoder",
-                "printedName": "Foundation.NSCoder",
-                "usr": "c:objc(cs)NSCoder"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendTgskiView(im)initWithCoder:",
-            "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC5coderACSgSo7NSCoderC_tcfc",
-            "moduleName": "FolgendMoeutghHirnd",
-            "overriding": true,
-            "objc_name": "initWithCoder:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Required"
-            ],
-            "init_kind": "Designated"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendTgskiView",
-        "mangledName": "$s19FolgendMoeutghHirnd0A9TgskiViewC",
-        "moduleName": "FolgendMoeutghHirnd",
-        "isOpen": true,
-        "declAttributes": [
-          "Preconcurrency",
-          "Custom",
-          "AccessControl",
-          "ObjC"
-        ],
-        "superclassUsr": "c:objc(cs)UIView",
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "UIKit.UIView",
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "UITraitChangeObservable",
-            "printedName": "UITraitChangeObservable",
-            "usr": "s:5UIKit23UITraitChangeObservableP",
-            "mangledName": "$s5UIKit23UITraitChangeObservableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "__DefaultCustomPlaygroundQuickLookable",
-            "printedName": "__DefaultCustomPlaygroundQuickLookable",
-            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
-            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
-          }
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "FolgendMoeutghHirnd"
-      },
-      {
-        "kind": "Import",
-        "name": "Network",
-        "printedName": "Network",
-        "declKind": "Import",
-        "moduleName": "FolgendMoeutghHirnd"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "FolgendMoeutghHirnd"
-      },
-      {
-        "kind": "Import",
-        "name": "AppTrackingTransparency",
-        "printedName": "AppTrackingTransparency",
-        "declKind": "Import",
-        "moduleName": "FolgendMoeutghHirnd"
-      },
-      {
-        "kind": "Import",
-        "name": "AdjustSdk",
-        "printedName": "AdjustSdk",
-        "declKind": "Import",
-        "moduleName": "FolgendMoeutghHirnd"
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "FolgendOnhsLorknCieow",
-        "printedName": "FolgendOnhsLorknCieow",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "FolgendShared",
-            "printedName": "FolgendShared",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "FolgendOnhsLorknCieow",
-                "printedName": "FolgendMoeutghHirnd.FolgendOnhsLorknCieow",
-                "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendOnhsLorknCieow"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:19FolgendMoeutghHirnd0A14OnhsLorknCieowC0A6SharedACvpZ",
-            "mangledName": "$s19FolgendMoeutghHirnd0A14OnhsLorknCieowC0A6SharedACvpZ",
-            "moduleName": "FolgendMoeutghHirnd",
-            "static": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Final",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "isLet": true,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "FolgendOnhsLorknCieow",
-                    "printedName": "FolgendMoeutghHirnd.FolgendOnhsLorknCieow",
-                    "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendOnhsLorknCieow"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:19FolgendMoeutghHirnd0A14OnhsLorknCieowC0A6SharedACvgZ",
-                "mangledName": "$s19FolgendMoeutghHirnd0A14OnhsLorknCieowC0A6SharedACvgZ",
-                "moduleName": "FolgendMoeutghHirnd",
-                "static": true,
-                "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Function",
-            "name": "folgendmJjsoTysha",
-            "printedName": "folgendmJjsoTysha(_:_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "UIViewController",
-                "printedName": "UIKit.UIViewController",
-                "usr": "c:objc(cs)UIViewController"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:19FolgendMoeutghHirnd0A14OnhsLorknCieowC17folgendmJjsoTyshayySo16UIViewControllerC_SStF",
-            "mangledName": "$s19FolgendMoeutghHirnd0A14OnhsLorknCieowC17folgendmJjsoTyshayySo16UIViewControllerC_SStF",
-            "moduleName": "FolgendMoeutghHirnd",
-            "isOpen": true,
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "folgendHidandTyhdls",
-            "printedName": "folgendHidandTyhdls()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:19FolgendMoeutghHirnd0A14OnhsLorknCieowC19folgendHidandTyhdlsyyF",
-            "mangledName": "$s19FolgendMoeutghHirnd0A14OnhsLorknCieowC19folgendHidandTyhdlsyyF",
-            "moduleName": "FolgendMoeutghHirnd",
-            "isOpen": true,
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "FolgendOnhsLorknCieow",
-                "printedName": "FolgendMoeutghHirnd.FolgendOnhsLorknCieow",
-                "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendOnhsLorknCieow"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendOnhsLorknCieow(im)init",
-            "mangledName": "$s19FolgendMoeutghHirnd0A14OnhsLorknCieowCACycfc",
-            "moduleName": "FolgendMoeutghHirnd",
-            "overriding": true,
-            "implicit": true,
-            "objc_name": "init",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Override"
-            ],
-            "init_kind": "Designated"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendOnhsLorknCieow",
-        "mangledName": "$s19FolgendMoeutghHirnd0A14OnhsLorknCieowC",
-        "moduleName": "FolgendMoeutghHirnd",
-        "isOpen": true,
-        "declAttributes": [
-          "AccessControl",
-          "ObjC"
-        ],
-        "superclassUsr": "c:objc(cs)NSObject",
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          }
-        ]
       },
       {
         "kind": "Import",
@@ -5462,13 +3909,6 @@
           },
           {
             "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "UITraitChangeObservable",
             "printedName": "UITraitChangeObservable",
             "usr": "s:5UIKit23UITraitChangeObservableP",
@@ -5480,6 +3920,1566 @@
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
             "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "FolgendMoeutghHirnd",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "FolgendMoeutghHirnd"
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "FolgendMoeutghHirnd"
+      },
+      {
+        "kind": "Var",
+        "name": "FolgendDfedyus",
+        "printedName": "FolgendDfedyus",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Array",
+            "printedName": "[Swift.String]",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "usr": "s:Sa"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:19FolgendMoeutghHirnd0A7DfedyusSaySSGvp",
+        "mangledName": "$s19FolgendMoeutghHirnd0A7DfedyusSaySSGvp",
+        "moduleName": "FolgendMoeutghHirnd",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl"
+        ],
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "diaChon",
+        "printedName": "diaChon",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:19FolgendMoeutghHirnd7diaChonSSvp",
+        "mangledName": "$s19FolgendMoeutghHirnd7diaChonSSvp",
+        "moduleName": "FolgendMoeutghHirnd",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "amt",
+        "printedName": "amt",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:19FolgendMoeutghHirnd3amtSSvp",
+        "mangledName": "$s19FolgendMoeutghHirnd3amtSSvp",
+        "moduleName": "FolgendMoeutghHirnd",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "chozh",
+        "printedName": "chozh",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:19FolgendMoeutghHirnd5chozhSSvp",
+        "mangledName": "$s19FolgendMoeutghHirnd5chozhSSvp",
+        "moduleName": "FolgendMoeutghHirnd",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "Brie",
+        "printedName": "Brie",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:19FolgendMoeutghHirnd4BrieSSvp",
+        "mangledName": "$s19FolgendMoeutghHirnd4BrieSSvp",
+        "moduleName": "FolgendMoeutghHirnd",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "hdrawo",
+        "printedName": "hdrawo",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:19FolgendMoeutghHirnd6hdrawoSSvp",
+        "mangledName": "$s19FolgendMoeutghHirnd6hdrawoSSvp",
+        "moduleName": "FolgendMoeutghHirnd",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "rams",
+        "printedName": "rams",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:19FolgendMoeutghHirnd4ramsSSvp",
+        "mangledName": "$s19FolgendMoeutghHirnd4ramsSSvp",
+        "moduleName": "FolgendMoeutghHirnd",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "diyicicho",
+        "printedName": "diyicicho",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:19FolgendMoeutghHirnd9diyicichoSSvp",
+        "mangledName": "$s19FolgendMoeutghHirnd9diyicichoSSvp",
+        "moduleName": "FolgendMoeutghHirnd",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "diyichCha",
+        "printedName": "diyichCha",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:19FolgendMoeutghHirnd9diyichChaSSvp",
+        "mangledName": "$s19FolgendMoeutghHirnd9diyichChaSSvp",
+        "moduleName": "FolgendMoeutghHirnd",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "geicho",
+        "printedName": "geicho",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:19FolgendMoeutghHirnd6geichoSSvp",
+        "mangledName": "$s19FolgendMoeutghHirnd6geichoSSvp",
+        "moduleName": "FolgendMoeutghHirnd",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "ren",
+        "printedName": "ren",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:19FolgendMoeutghHirnd3renSSvp",
+        "mangledName": "$s19FolgendMoeutghHirnd3renSSvp",
+        "moduleName": "FolgendMoeutghHirnd",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "aTc",
+        "printedName": "aTc",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:19FolgendMoeutghHirnd3aTcSSvp",
+        "mangledName": "$s19FolgendMoeutghHirnd3aTcSSvp",
+        "moduleName": "FolgendMoeutghHirnd",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "OpWin",
+        "printedName": "OpWin",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:19FolgendMoeutghHirnd5OpWinSSvp",
+        "mangledName": "$s19FolgendMoeutghHirnd5OpWinSSvp",
+        "moduleName": "FolgendMoeutghHirnd",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "deop",
+        "printedName": "deop",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:19FolgendMoeutghHirnd4deopSSvp",
+        "mangledName": "$s19FolgendMoeutghHirnd4deopSSvp",
+        "moduleName": "FolgendMoeutghHirnd",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FolgendJkoksVhuewhViewController",
+        "printedName": "FolgendJkoksVhuewhViewController",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "folgendVgfeghs",
+            "printedName": "folgendVgfeghs",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FolgendMoeutghHirnd.FolgendTreuyVbsh?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FolgendTreuyVbsh",
+                    "printedName": "FolgendMoeutghHirnd.FolgendTreuyVbsh",
+                    "usr": "s:19FolgendMoeutghHirnd0A9TreuyVbshV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC14folgendVgfeghsAA0A9TreuyVbshVSgvp",
+            "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC14folgendVgfeghsAA0A9TreuyVbshVSgvp",
+            "moduleName": "FolgendMoeutghHirnd",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "FolgendMoeutghHirnd.FolgendTreuyVbsh?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FolgendTreuyVbsh",
+                        "printedName": "FolgendMoeutghHirnd.FolgendTreuyVbsh",
+                        "usr": "s:19FolgendMoeutghHirnd0A9TreuyVbshV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC14folgendVgfeghsAA0A9TreuyVbshVSgvg",
+                "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC14folgendVgfeghsAA0A9TreuyVbshVSgvg",
+                "moduleName": "FolgendMoeutghHirnd",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "FolgendMoeutghHirnd.FolgendTreuyVbsh?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FolgendTreuyVbsh",
+                        "printedName": "FolgendMoeutghHirnd.FolgendTreuyVbsh",
+                        "usr": "s:19FolgendMoeutghHirnd0A9TreuyVbshV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC14folgendVgfeghsAA0A9TreuyVbshVSgvs",
+                "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC14folgendVgfeghsAA0A9TreuyVbshVSgvs",
+                "moduleName": "FolgendMoeutghHirnd",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC14folgendVgfeghsAA0A9TreuyVbshVSgvM",
+                "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC14folgendVgfeghsAA0A9TreuyVbshVSgvM",
+                "moduleName": "FolgendMoeutghHirnd",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "folgendLoewjsMhas",
+            "printedName": "folgendLoewjsMhas",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "WebKit.WKWebView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKWebView",
+                    "printedName": "WebKit.WKWebView",
+                    "usr": "c:objc(cs)WKWebView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC17folgendLoewjsMhasSo05WKWebF0CSgvp",
+            "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC17folgendLoewjsMhasSo05WKWebF0CSgvp",
+            "moduleName": "FolgendMoeutghHirnd",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "WebKit.WKWebView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WKWebView",
+                        "printedName": "WebKit.WKWebView",
+                        "usr": "c:objc(cs)WKWebView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC17folgendLoewjsMhasSo05WKWebF0CSgvg",
+                "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC17folgendLoewjsMhasSo05WKWebF0CSgvg",
+                "moduleName": "FolgendMoeutghHirnd",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "WebKit.WKWebView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WKWebView",
+                        "printedName": "WebKit.WKWebView",
+                        "usr": "c:objc(cs)WKWebView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC17folgendLoewjsMhasSo05WKWebF0CSgvs",
+                "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC17folgendLoewjsMhasSo05WKWebF0CSgvs",
+                "moduleName": "FolgendMoeutghHirnd",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC17folgendLoewjsMhasSo05WKWebF0CSgvM",
+                "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC17folgendLoewjsMhasSo05WKWebF0CSgvM",
+                "moduleName": "FolgendMoeutghHirnd",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController(im)viewDidLoad",
+            "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC11viewDidLoadyyF",
+            "moduleName": "FolgendMoeutghHirnd",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLayoutSubviews",
+            "printedName": "viewDidLayoutSubviews()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController(im)viewDidLayoutSubviews",
+            "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC21viewDidLayoutSubviewsyyF",
+            "moduleName": "FolgendMoeutghHirnd",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLayoutSubviews",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "webView",
+            "printedName": "webView(_:decidePolicyFor:decisionHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKNavigationAction",
+                "printedName": "WebKit.WKNavigationAction",
+                "usr": "c:objc(cs)WKNavigationAction"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(WebKit.WKNavigationActionPolicy) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKNavigationActionPolicy",
+                    "printedName": "WebKit.WKNavigationActionPolicy",
+                    "usr": "c:@E@WKNavigationActionPolicy"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController(im)webView:decidePolicyForNavigationAction:decisionHandler:",
+            "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC03webF0_15decidePolicyFor15decisionHandlerySo05WKWebF0C_So18WKNavigationActionCySo0opJ0VctF",
+            "moduleName": "FolgendMoeutghHirnd",
+            "isOpen": true,
+            "objc_name": "webView:decidePolicyForNavigationAction:decisionHandler:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "webView",
+            "printedName": "webView(_:createWebViewWith:for:windowFeatures:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "WebKit.WKWebView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKWebView",
+                    "printedName": "WebKit.WKWebView",
+                    "usr": "c:objc(cs)WKWebView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebViewConfiguration",
+                "printedName": "WebKit.WKWebViewConfiguration",
+                "usr": "c:objc(cs)WKWebViewConfiguration"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKNavigationAction",
+                "printedName": "WebKit.WKNavigationAction",
+                "usr": "c:objc(cs)WKNavigationAction"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWindowFeatures",
+                "printedName": "WebKit.WKWindowFeatures",
+                "usr": "c:objc(cs)WKWindowFeatures"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController(im)webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:",
+            "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC03webF0_09createWebF4With3for14windowFeaturesSo05WKWebF0CSgAI_So0oF13ConfigurationCSo18WKNavigationActionCSo08WKWindowN0CtF",
+            "moduleName": "FolgendMoeutghHirnd",
+            "isOpen": true,
+            "objc_name": "webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "userContentController",
+            "printedName": "userContentController(_:didReceive:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKUserContentController",
+                "printedName": "WebKit.WKUserContentController",
+                "usr": "c:objc(cs)WKUserContentController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKScriptMessage",
+                "printedName": "WebKit.WKScriptMessage",
+                "usr": "c:objc(cs)WKScriptMessage"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController(im)userContentController:didReceiveScriptMessage:",
+            "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC011userContentG0_10didReceiveySo06WKUseriG0C_So15WKScriptMessageCtF",
+            "moduleName": "FolgendMoeutghHirnd",
+            "isOpen": true,
+            "objc_name": "userContentController:didReceiveScriptMessage:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "shouldAutorotate",
+            "printedName": "shouldAutorotate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController(py)shouldAutorotate",
+            "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC16shouldAutorotateSbvp",
+            "moduleName": "FolgendMoeutghHirnd",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "shouldAutorotate",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController(im)shouldAutorotate",
+                "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC16shouldAutorotateSbvg",
+                "moduleName": "FolgendMoeutghHirnd",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "shouldAutorotate",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "supportedInterfaceOrientations",
+            "printedName": "supportedInterfaceOrientations",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIInterfaceOrientationMask",
+                "printedName": "UIKit.UIInterfaceOrientationMask",
+                "usr": "c:@E@UIInterfaceOrientationMask"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController(py)supportedInterfaceOrientations",
+            "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvp",
+            "moduleName": "FolgendMoeutghHirnd",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "supportedInterfaceOrientations",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIInterfaceOrientationMask",
+                    "printedName": "UIKit.UIInterfaceOrientationMask",
+                    "usr": "c:@E@UIInterfaceOrientationMask"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController(im)supportedInterfaceOrientations",
+                "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvg",
+                "moduleName": "FolgendMoeutghHirnd",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "supportedInterfaceOrientations",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FolgendJkoksVhuewhViewController",
+                "printedName": "FolgendMoeutghHirnd.FolgendJkoksVhuewhViewController",
+                "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController(im)initWithNibName:bundle:",
+            "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "FolgendMoeutghHirnd",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FolgendMoeutghHirnd.FolgendJkoksVhuewhViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FolgendJkoksVhuewhViewController",
+                    "printedName": "FolgendMoeutghHirnd.FolgendJkoksVhuewhViewController",
+                    "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController(im)initWithCoder:",
+            "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "FolgendMoeutghHirnd",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendJkoksVhuewhViewController",
+        "mangledName": "$s19FolgendMoeutghHirnd0A25JkoksVhuewhViewControllerC",
+        "moduleName": "FolgendMoeutghHirnd",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FolgendNavigationController",
+        "printedName": "FolgendNavigationController",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController(im)viewDidLoad",
+            "mangledName": "$s19FolgendMoeutghHirnd0A20NavigationControllerC11viewDidLoadyyF",
+            "moduleName": "FolgendMoeutghHirnd",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "shouldAutorotate",
+            "printedName": "shouldAutorotate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController(py)shouldAutorotate",
+            "mangledName": "$s19FolgendMoeutghHirnd0A20NavigationControllerC16shouldAutorotateSbvp",
+            "moduleName": "FolgendMoeutghHirnd",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "shouldAutorotate",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController(im)shouldAutorotate",
+                "mangledName": "$s19FolgendMoeutghHirnd0A20NavigationControllerC16shouldAutorotateSbvg",
+                "moduleName": "FolgendMoeutghHirnd",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "shouldAutorotate",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "supportedInterfaceOrientations",
+            "printedName": "supportedInterfaceOrientations",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIInterfaceOrientationMask",
+                "printedName": "UIKit.UIInterfaceOrientationMask",
+                "usr": "c:@E@UIInterfaceOrientationMask"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController(py)supportedInterfaceOrientations",
+            "mangledName": "$s19FolgendMoeutghHirnd0A20NavigationControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvp",
+            "moduleName": "FolgendMoeutghHirnd",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "supportedInterfaceOrientations",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIInterfaceOrientationMask",
+                    "printedName": "UIKit.UIInterfaceOrientationMask",
+                    "usr": "c:@E@UIInterfaceOrientationMask"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController(im)supportedInterfaceOrientations",
+                "mangledName": "$s19FolgendMoeutghHirnd0A20NavigationControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvg",
+                "moduleName": "FolgendMoeutghHirnd",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "supportedInterfaceOrientations",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(navigationBarClass:toolbarClass:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FolgendNavigationController",
+                "printedName": "FolgendMoeutghHirnd.FolgendNavigationController",
+                "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any AnyObject.Type)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ExistentialMetatype",
+                    "printedName": "any AnyObject.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "AnyObject"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any AnyObject.Type)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ExistentialMetatype",
+                    "printedName": "any AnyObject.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "AnyObject"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController(im)initWithNavigationBarClass:toolbarClass:",
+            "mangledName": "$s19FolgendMoeutghHirnd0A20NavigationControllerC18navigationBarClass07toolbarH0ACyXlXpSg_AFtcfc",
+            "moduleName": "FolgendMoeutghHirnd",
+            "overriding": true,
+            "implicit": true,
+            "intro_iOS": "5.0",
+            "objc_name": "initWithNavigationBarClass:toolbarClass:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "Available"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rootViewController:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FolgendNavigationController",
+                "printedName": "FolgendMoeutghHirnd.FolgendNavigationController",
+                "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController(im)initWithRootViewController:",
+            "mangledName": "$s19FolgendMoeutghHirnd0A20NavigationControllerC08rootViewE0ACSo06UIViewE0C_tcfc",
+            "moduleName": "FolgendMoeutghHirnd",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithRootViewController:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FolgendNavigationController",
+                "printedName": "FolgendMoeutghHirnd.FolgendNavigationController",
+                "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController(im)initWithNibName:bundle:",
+            "mangledName": "$s19FolgendMoeutghHirnd0A20NavigationControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "FolgendMoeutghHirnd",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "FolgendMoeutghHirnd.FolgendNavigationController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FolgendNavigationController",
+                    "printedName": "FolgendMoeutghHirnd.FolgendNavigationController",
+                    "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController(im)initWithCoder:",
+            "mangledName": "$s19FolgendMoeutghHirnd0A20NavigationControllerC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "FolgendMoeutghHirnd",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@FolgendMoeutghHirnd@objc(cs)FolgendNavigationController",
+        "mangledName": "$s19FolgendMoeutghHirnd0A20NavigationControllerC",
+        "moduleName": "FolgendMoeutghHirnd",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UINavigationController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UINavigationController",
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
           }
         ]
       },
@@ -6263,6 +6263,34 @@
   },
   "ConstValues": [
     {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendTgskiView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 366,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendTgskiView.swift",
+      "kind": "FloatLiteral",
+      "offset": 408,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendTgskiView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 453,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendTgskiView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 491,
+      "length": 2,
+      "value": "10"
+    },
+    {
       "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendDasdBjajs.swift",
       "kind": "StringLiteral",
       "offset": 1281,
@@ -6324,132 +6352,6 @@
       "offset": 6535,
       "length": 3,
       "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 280,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 329,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 372,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 417,
-      "length": 1,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 472,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 526,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 574,
-      "length": 1,
-      "value": "6"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 629,
-      "length": 1,
-      "value": "7"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 677,
-      "length": 1,
-      "value": "8"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 722,
-      "length": 1,
-      "value": "9"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 766,
-      "length": 2,
-      "value": "10"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 810,
-      "length": 2,
-      "value": "11"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 858,
-      "length": 2,
-      "value": "12"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4471,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendTgskiView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 366,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendTgskiView.swift",
-      "kind": "FloatLiteral",
-      "offset": 408,
-      "length": 3,
-      "value": "0.3"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendTgskiView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 453,
-      "length": 2,
-      "value": "50"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendTgskiView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 491,
-      "length": 2,
-      "value": "10"
     },
     {
       "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendGameView.swift",
@@ -7052,6 +6954,104 @@
       "offset": 21899,
       "length": 1,
       "value": "8"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 280,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 329,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 372,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 417,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 472,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 526,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 574,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 629,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 677,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 722,
+      "length": 1,
+      "value": "9"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 766,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 810,
+      "length": 2,
+      "value": "11"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 858,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/09\/0914-2\/FolgendMoeutghHirnd\/FolgendMoeutghHirnd\/FolgendJkoksVhuewhViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4471,
+      "length": 5,
+      "value": "false"
     }
   ]
 }
